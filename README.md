@@ -26,4 +26,20 @@ If any problem occurs in pushing use git push --force origin master
  
 	1. git branch brachName
 	
-	
+কিভাবে আমরা ব্রাঞ্চ এর লিস্ট দেখব ঃ
+        2. git branch --list
+ কিভাবে আমরা ব্রাঞ্চ সুইচ করবও ঃ
+        3. git chechout branchName
+ **************************++++++***************************
+                        আমরা চাইলে একসাথে ৩ টা কাজ করবতে পারি ।              
+                        git checkout branch name
+ **************************++++++***************************
+ 
+ এখন আমরা একটা ফাইল তৈরি করবও ফাইল তৈরি করার জন্য আমাদের কমান্ড ঃ
+        touch fileName
+   এখন আমাদের কমেন্ট দিতে হবে 
+        4. git commit -m "Add all my files"
+    এখন আমদের পুষ করার জন্য এই কমান্ড দিতে হবে ,
+        
+        5. git push --set-upstream origin branchName
+       
