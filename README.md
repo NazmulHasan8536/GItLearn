@@ -23,4 +23,7 @@ If any problem occurs in pushing use git push --force origin master
  কিভাবে আমরা একটি ব্রাঞ্চ তৈরি করবও এবং আপ্লয়াদ করব এবং কন্ট্রোল করব ঃ
  
  ব্রাঞ্চ তৈরি ঃ
- git branch brachName
+ 
+	1. git branch brachName
+	
+	
