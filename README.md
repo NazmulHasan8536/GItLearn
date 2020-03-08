@@ -37,7 +37,7 @@ If any problem occurs in pushing use git push --force origin master
  **************************++++++***************************
                         আমরা চাইলে একসাথে ৩ টা কাজ করবতে পারি । 
                         
-                        git checkout branch name
+                        git checkout --b brancName
  **************************++++++***************************
  
  এখন আমরা একটা ফাইল তৈরি করবও ফাইল তৈরি করার জন্য আমাদের কমান্ড ঃ
